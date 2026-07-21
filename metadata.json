@@ -1,0 +1,6 @@
+{
+  "name": "Trendify Sherpur",
+  "description": "Premium multilingual eCommerce website for Trendify Sherpur (Bangladesh) with Flash Sales, Interactive Cart, Checkout, and User Dashboard.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
